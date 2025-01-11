@@ -1,0 +1,10 @@
+Places,Language
+America,English
+Germany,German
+England,English
+Australia,English
+Italy,Italian
+India,Hindi
+Kerala,Malayalam
+UK,English
+Frances,Italian
